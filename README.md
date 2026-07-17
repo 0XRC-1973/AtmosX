@@ -17,9 +17,6 @@
   <a href="https://github.com/0XRC-1973/AtmosX">
     <img src="https://img.shields.io/badge/⭐%20GitHub-Repository-black?style=for-the-badge&logo=github" alt="Repository"/>
   </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/📄%20License-MIT-blue?style=for-the-badge" alt="License"/>
-  </a>
 </p>
 
 ---
