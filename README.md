@@ -93,8 +93,10 @@ Example:
 
 ```
 screenshots/
-    home.png
-    weather-result.png
+├── home-page.png
+├── search-weather.png
+├── weather-result.png
+└── mobile-view.png
 ```
 
 Then include them like:
