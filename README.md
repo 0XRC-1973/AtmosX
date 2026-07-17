@@ -92,7 +92,7 @@ AtmosX/
 ## 🔍 Search Weather
 
 <p align="center">
-<img src="screenshots/search.png" width="900">
+<img src="WhatsApp Image 2026-02-01 at 6.54.29 AM (1).jpeg" width="900">
 </p>
 
 ---
