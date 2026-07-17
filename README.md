@@ -92,12 +92,23 @@ No installation is required.
 Example:
 
 ```
-screenshots/
-├── home-page.png
-├── search-weather.png
-├── weather-result.png
-└── mobile-view.png
-```
+## 📸 Screenshots
+
+<p align="center">
+<img src="WhatsApp Image 2026-02-01 at 6.54.29 AM.jpeg" width="900">
+</p>
+
+<p align="center">
+<img src="WhatsApp Image 2026-02-01 at 6.54.29 AM (1).jpeg" width="900">
+</p>
+
+<p align="center">
+<img src="WhatsApp Image 2026-02-01 at 6.54.29 AM (2).jpeg" width="900">
+</p>
+
+<p align="center">
+<img src="WhatsApp Image 2026-02-01 at 6.54.29 AM (3).jpeg" width="350">
+</p>```
 
 Then include them like:
 
