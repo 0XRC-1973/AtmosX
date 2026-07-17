@@ -84,7 +84,7 @@ AtmosX/
 ## 🏠 Home Page
 
 <p align="center">
-<img src="screenshots/home.png" width="900">
+<img src="WhatsApp Image 2026-02-01 at 6.54.29 AM (1).jpeg" width="350">
 </p>
 
 ---
@@ -92,7 +92,8 @@ AtmosX/
 ## 🔍 Search Weather
 
 <p align="center">
-<img src="WhatsApp Image 2026-02-01 at 6.54.29 AM (1).jpeg" width="900">
+<img src="WhatsApp Image 2026-02-01 at 6.54.29 AM (2).jpeg" width="350">
+  
 </p>
 
 ---
@@ -100,7 +101,7 @@ AtmosX/
 ## 🌦️ Weather Result
 
 <p align="center">
-<img src="screenshots/weather-result.png" width="900">
+<img src="WhatsApp Image 2026-02-01 at 6.54.29 AM (3).jpeg" width="350">
 </p>
 
 ---
@@ -108,7 +109,7 @@ AtmosX/
 ## 📱 Responsive Design
 
 <p align="center">
-<img src="screenshots/mobile-view.png" width="350">
+<img src="WhatsApp Image 2026-02-01 at 6.54.29 AM (3).jpeg" width="350">
 </p>
 
 ---
